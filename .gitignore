@@ -1,2 +1,8 @@
 *.class
 *.log
+*/.bsp/
+*/.idea/
+*/.metals/
+*/.scala-build/
+/.idea/
+/project-root/.vscode/
